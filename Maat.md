@@ -15,12 +15,12 @@ Angular v9
 
 
 ## How to Run
-Maat can either be run by:  
-a) Indepedently, via tests; or  
+Maat can either be run:  
+a) Indepedently - via tests; or  
 b) In conjuction with Lucifer
 
 ### Running Tests
-The existing tests within Maat can run using this format in the CMD: "npm run test:{{test name}}".  
+The tests within Maat can be run using this format in the CMD: "npm run test:{{test name}}".  
 
 The following list contains all the available tests:  
 "test:all"  
